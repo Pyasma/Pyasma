@@ -96,7 +96,8 @@
       alt="Pyasma GitHub Stats"
     />
   </p> -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pyasma" alt="GitHub Streak" /></a>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pyasma&show_icons=true&include_all_commits=true&count_private=true)
+
 
 
 
