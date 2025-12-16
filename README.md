@@ -89,15 +89,13 @@
   </div>
   <br>
 
-  <!-- <p align="center">
+  <p align="center">
     <img 
       src="https://pixel-profile.vercel.app/api/github-stats?username=Pyasma&screen_effect=true&theme=crt" 
       width="350" 
       alt="Pyasma GitHub Stats"
     />
-  </p> -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Pyasma&hide_border=true)
-
+  </p> 
 
 
 
