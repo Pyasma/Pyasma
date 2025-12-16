@@ -96,7 +96,7 @@
       alt="Pyasma GitHub Stats"
     />
   </p> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pyasma&theme=tokyonight&background=0D1117&border=9966CC&ring=9966CC&fire=FF00FF&currStreakLabel=F5F5FF)](https://git.io/streak-stats)
+  [![GitHub Streak](<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pyasma" alt="GitHub Streak" /></a>)](https://git.io/streak-stats)
 
 
 
