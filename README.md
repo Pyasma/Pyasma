@@ -88,30 +88,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   </div>
   <br>
-
-  <p align="center">
-    <img 
-      src="https://pixel-profile.vercel.app/api/github-stats?username=Pyasma&screen_effect=true&theme=crt" 
-      width="350" 
-      alt="Pyasma GitHub Stats"
-    />
-  </p> 
-
-
-
-
-
-
   <a href="https://buymeacoffee.com/pranyashar4" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" >
   </a>
-  <br>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake.svg" />
-  </picture>
-
 </div>
  
