@@ -96,7 +96,8 @@
       alt="Pyasma GitHub Stats"
     />
   </p> -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pyasma&hide=stars,prs,issues&include_all_commits=true&count_private=true&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Pyasma&hide_border=true)
+
 
 
 
